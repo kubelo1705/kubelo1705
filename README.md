@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kubelo1705, i'am a 3-year student in University of Science
-- 👀 I’m interested in backend for web and mobile
-- 🌱 I’m currently learning some about php, java
+- 👋 Hi, I’m @kubelo1705, i'am a 4-year student in University of Science
+- 👀 I’m interested in backend.
 - 📫 please contact: fb.com/phattran2107 or phat.tran.210700@gmail.com
 
 <!---
